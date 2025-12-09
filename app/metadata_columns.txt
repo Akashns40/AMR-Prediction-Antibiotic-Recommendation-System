@@ -1,0 +1,10 @@
+species
+total_genes_detected
+total_resistance_classes
+MDR_status
+network_degree
+network_betweenness
+macrolide_gene_count
+tetracycline_gene_count
+fluoroquinolone_gene_count
+aminoglycoside_gene_count
